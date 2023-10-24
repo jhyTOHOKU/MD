@@ -1,0 +1,11 @@
+#*********** input for analysis (z-plane flux) ************
+
+nstana     0 
+nedana    5000000
+intana       1000
+
+MOVE_COUNT_ACROSS_Z .true.
+ATOM_TYPE_number 3
+z_point_of_intersection 0
+
+#******************** end of line ********************
